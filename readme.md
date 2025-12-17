@@ -6,7 +6,7 @@
 - [ ] scikit-learn — classical machine learning algorithms
 
 # Segments / Topics
-- [ ] Data preprocessing — cleaning, feature engineering, scaling (done)
+- Data preprocessing — cleaning, feature engineering, scaling
 - [ ] Regression — linear, regularized, and polynomial models
 - [ ] Classification — logistic, SVM, tree-based models
 - [ ] Clustering — K-Means, hierarchical, DBSCAN
